@@ -1,0 +1,13 @@
+#配置文件
+###bean_core.xml
+这是Spring的配置文件
+###dbcp.properties
+这是dbcp的配置文件,用于记录数据库的连接信息和数据库的连接参数
+###generatorConfig.xml
+这是mybatis-generator的配置文件，这些配置文件将用于用户从数据库中的表自动生成对应实体类
+###log4j.properties
+这是log4j的配置文件，用于在开发期间查看控制台详细输出信息
+###mybatis-config.xml
+这是mybatis的配置文件，用于mybatis测试期间的数据库信息配置
+###springmvc.xml
+这是Spring-mvc的配置文件
